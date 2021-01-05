@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Anna</h1>
-<h4 align="Left">Fascinated about the future world where Artificial General Intelligence, Robots and People work/live together. Building apps to help people and animals have a better life, to solve the most daunting issues and so all can have some fun.</h4>
+<h4 align="Left">Fascinated about the future world where Artificial General Intelligence, Robots and People work/live together. I'm particularly interested in understanding human behavior in the context of human-robot collaboration, and engineering learning-based methods that enrich that collaboration. Also, building apps to help people and animals have a better life, to solve the most daunting issues and so all can have some fun.</h4>
 
 
 -  I’m currently learning: **Deep Reinforcement Learning** 🌱
